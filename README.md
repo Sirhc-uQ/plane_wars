@@ -31,7 +31,8 @@
 
 ### select heros 
 <img width="284" alt="image" src="https://github.com/Sirhc-uQ/plane_wars/assets/58525021/f7a4ab1a-f0df-40b8-a376-72af1e6c2464">
-### Gaming
+
+### gaming
 - Game goods 
 <img width="290" alt="image" src="https://github.com/Sirhc-uQ/plane_wars/assets/58525021/03876b07-c622-4d3d-adbf-d2a44afaa3f1"> <img width="282" alt="image" src="https://github.com/Sirhc-uQ/plane_wars/assets/58525021/a6878144-88ae-4ce8-b10e-c31828fad99d">
 
