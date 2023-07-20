@@ -1,7 +1,7 @@
 # plane_wars
 <img width="823" alt="image" src="https://github.com/Sirhc-uQ/plane_wars/assets/58525021/6b80900d-a113-455b-bb5b-9b6eb8f4c6c8">
 
-## basic class
+## Basic Class
 1. Game Object(abstract)
 - GameGoods: Bullet upgrade pack, Bombs, Blood bag, Guided missile
 - MyPlane: three types of planes
@@ -25,3 +25,9 @@
 - GameConstant: Contains all constants for the different components of the game
 - GameData: Constants required by the game's main logic
 
+
+## Notes
+The main code is in the path "app/src/main/java"
+
+There is a game demo saved as 'game demo.mp4'
+'app-release.apk' is a android installation package
